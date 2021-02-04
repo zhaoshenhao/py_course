@@ -20,3 +20,7 @@ Online course: https://www.w3schools.com/python/
 2. Booleans
 3. Operations
 
+# Feb 5
+1. List
+2. Tuple
+3. Set
