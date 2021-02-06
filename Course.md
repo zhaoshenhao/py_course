@@ -22,5 +22,7 @@ Online course: https://www.w3schools.com/python/
 
 # Feb 5
 1. List
-2. Tuple
-3. Set
+   
+# Feb 8
+1. Tuple
+2. Set
